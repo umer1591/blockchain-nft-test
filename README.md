@@ -26,12 +26,13 @@ This is an assessment project to demonstrate an **ERC-721 Smart Contract** integ
 
 ## 📁 Folder Structure
 
-Blockchain-Test/
-├── apps/
-│ ├── api/ # Backend - Nest.js + Prisma
-│ └── web/ # Frontend - Next.js app
-├── packages/ # Shared components and config
-└── ....
+📁 Blockchain-Test/
+├── 📁 apps/
+│   ├── 📁 api/           # Backend - Nest.js + Prisma
+│   └── 📁 web/           # Frontend - Next.js app
+├── 📁 packages/          # Shared components & config
+└── 📄 README.md
+
 
 ## ⚙️ Environment Variables
 
